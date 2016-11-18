@@ -1,0 +1,6 @@
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FinalExamProgram\FinalExamProgram\bin\Debug\FinalExamProgram.exe.config
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FinalExamProgram\FinalExamProgram\bin\Debug\FinalExamProgram.exe
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FinalExamProgram\FinalExamProgram\bin\Debug\FinalExamProgram.pdb
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FinalExamProgram\FinalExamProgram\obj\Debug\FinalExamProgram.csprojResolveAssemblyReference.cache
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FinalExamProgram\FinalExamProgram\obj\Debug\FinalExamProgram.exe
+c:\users\dawn\documents\visual studio 2015\Projects\myers_FinalExamProgram\FinalExamProgram\obj\Debug\FinalExamProgram.pdb
